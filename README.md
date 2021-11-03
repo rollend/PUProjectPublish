@@ -1,5 +1,5 @@
 # Occurrence of pressure ulcer – Analyses and Prediction
-## Disclaimer: No patient data included, NHS project invovling patient data only provide screenshot to show the project; Demo is using mock up data. <br/>
+## Disclaimer: No patient data included, NHS project invovling patient data only provide screenshot to show the project; Demo is using mock up data (/GraphCalculationResults/Ward_Stay/KG_1234567). <br/>
 
 # Demo Screenshots
 ![UIDemo](/Screenshot/UI%20Demo.png)<br/>
