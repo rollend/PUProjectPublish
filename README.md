@@ -1,8 +1,11 @@
 # Occurrence of pressure ulcer – Analyses and Prediction
 ## Disclaimer: No patient data included, NHS project invovling patient data only provide screenshot to show the project <br/>
 
-# Demo
+# Demo Screenshots
 ![UIDemo](/Screenshot/UI%20Demo.png)<br/>
+
+![PatientPathway](/Screenshot/Patient%20Pathway.png)<br/>
+
 
 # Acknowledgments
 --Sponsored by The Health Foundation Advancing Applied Analytics Programme <br />
